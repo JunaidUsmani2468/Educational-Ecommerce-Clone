@@ -8,7 +8,7 @@ This is a front-end project that replicates the visual design and layout of the 
 
 Here is a preview of the live project.
 
-![Amazon Clone Project Screenshot](./assets/amazon-clone-ss.png)
+![Amazon Clone Project Screenshot](./Amazon-Clone-SS.png)
 
 ---
 

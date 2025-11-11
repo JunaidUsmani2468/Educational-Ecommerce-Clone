@@ -45,3 +45,7 @@ This project was built by following the web development tutorials from **Shradha
 1.  Clone this repository to your local machine.
 2.  Navigate to the project directory.
 3.  Open the `index.html` file in your web browser.
+
+## 🙏 Acknowledgements
+
+A huge thank you to **Shradha Khapra** and the **Apna College** team for their invaluable guidance and high-quality educational content that made this project possible.

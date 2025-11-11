@@ -1,3 +1,13 @@
+> ### ⚠️ **DISCLAIMER: EDUCATIONAL PROJECT** ⚠️
+>
+> **This project is an non-functional clone of the Amazon homepage. It was created solely for educational purposes and to demonstrate front-end web development skills.**
+>
+> - **THIS IS NOT THE OFFICIAL AMAZON WEBSITE.**
+> - This project is **NOT** intended for any malicious purposes, phishing, or to steal user credentials. All forms are non-functional.
+> - **NO DATA IS COLLECTED OR STORED.**
+> - All product images, logos, and brand assets are the property of Amazon.com. This project is not affiliated with or endorsed by Amazon.
+> - **A NOTE ON FLAGGIN**G: I am adding this disclaimer and am not hosting this project because my repository was previously removed by GitHub and flagged by Google as a "danger site." This is 100% a student project, and I am taking these precautions to prove its educational intent.
+
 # Amazon Homepage Clone
 
 This is a front-end project that replicates the visual design and layout of the Amazon homepage. It was created as a practice project to apply and strengthen my skills in modern HTML5 and CSS3.
@@ -6,7 +16,7 @@ This is a front-end project that replicates the visual design and layout of the 
 
 ## 📸 Screenshot
 
-Here is a preview of the live project.
+Here is a preview of the project.
 
 ![Amazon Clone Project Screenshot](./Amazon-Clone-SS.png)
 
